@@ -19,6 +19,8 @@ Please note if there are water/craftingtable/brewingstands available.
 
 3700,5500: A few tents
 
+2800, 5500: A small dirt hut with a bit of lore
+
 ### Warnings
 
 PRISON: has zombie spawners. Good loot.
